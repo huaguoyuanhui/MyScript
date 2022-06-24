@@ -1,3 +1,6 @@
+#Things 3
+host-suffix,cloud.culturedcode.com,direct
+#Others
 host-suffix,missav.com,proxy
 host-suffix,lncldglobal.com,proxy
 host-suffix,bitwarden.com,direct
