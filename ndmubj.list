@@ -1,9 +1,10 @@
 #Things 3
 host-suffix,cloud.culturedcode.com,direct
+#Bitwarden
+host-suffix,bitwarden.com,direct
 #Others
 host-suffix,missav.com,proxy
 host-suffix,lncldglobal.com,proxy
-host-suffix,bitwarden.com,direct
 host-suffix, safebrowsing.urlsec.qq.com, reject
 host-suffix, safebrowsing.googleapis.com, reject
 host-suffix, lookup.api.bsb.baidu.com, reject
