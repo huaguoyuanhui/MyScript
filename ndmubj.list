@@ -2,9 +2,12 @@
 host-suffix,cloud.culturedcode.com,direct
 #Bitwarden
 host-suffix,bitwarden.com,direct
-#Others
+#MissAV
 host-suffix,missav.com,proxy
+host-suffix,tsyndicate.com,reject
+host-suffix,doppiocdn.com,reject
+#Others
 host-suffix,lncldglobal.com,proxy
-host-suffix, safebrowsing.urlsec.qq.com, reject
-host-suffix, safebrowsing.googleapis.com, reject
-host-suffix, lookup.api.bsb.baidu.com, reject
+host-suffix,safebrowsing.urlsec.qq.com,reject
+host-suffix,safebrowsing.googleapis.com,reject
+host-suffix,lookup.api.bsb.baidu.com,reject
