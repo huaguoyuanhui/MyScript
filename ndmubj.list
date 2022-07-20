@@ -2,10 +2,13 @@
 host-suffix,cloud.culturedcode.com,direct
 #Bitwarden
 host-suffix,bitwarden.com,direct
+host-suffix,bitwarden.net,direct
 #MissAV
 host-suffix,missav.com,proxy
 host-suffix,tsyndicate.com,reject
 host-suffix,doppiocdn.com,reject
+#Notion
+host-suffix,notion.so,direct
 #Others
 host-suffix,lncldglobal.com,proxy
 host-suffix,safebrowsing.urlsec.qq.com,reject
