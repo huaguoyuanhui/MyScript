@@ -1,6 +1,6 @@
-#Things 3
+#Things3
 host-suffix,cloud.culturedcode.com,direct
-host-suffix, culturedcode.com, direct
+host-suffix,culturedcode.com,direct
 #Bitwarden
 host-suffix,bitwarden.com,direct
 host-suffix,bitwarden.net,direct
@@ -11,13 +11,17 @@ host-suffix,doppiocdn.com,reject
 #Notion
 host-suffix,notion.so,direct
 #男人团
-host-suffix, nrtimages.xyz, proxy
+host-suffix,nrtimages.xyz,proxy
 #JavDB
-host-suffix, javdb.com, proxy
+host-suffix,javdb.com,proxy
+#hanime1.me
+host-suffix,hanime1.me,proxy
+#Proton邮箱
+host-suffix,1proton.me,proxy
 #Others
 host-suffix,lncldglobal.com,proxy
 host-suffix,safebrowsing.urlsec.qq.com,reject
 host-suffix,safebrowsing.googleapis.com,reject
 host-suffix,lookup.api.bsb.baidu.com,reject
-host-suffix, tsyndicate.com,reject
-host-suffix, doppiocdn.com, reject
+host-suffix,tsyndicate.com,reject
+host-suffix,doppiocdn.com,reject
