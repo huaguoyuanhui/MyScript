@@ -1,0 +1,27 @@
+#Things 3
+ - DOMAIN-SUFFIX,cloud.culturedcode.com,🎯 全球直连
+ - DOMAIN-SUFFIX,culturedcode.com,🎯 全球直连
+#Bitwarden
+ - DOMAIN-SUFFIX,bitwarden.com,🎯 全球直连
+ - DOMAIN-SUFFIX,bitwarden.net,🎯 全球直连
+#MissAV
+ - DOMAIN-SUFFIX,missav.com,🚀 节点选择
+ - DOMAIN-SUFFIX,tsyndicate.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,doppiocdn.com,🛑 全球拦截
+#Notion
+ - DOMAIN-SUFFIX,notion.so,🎯 全球直连
+#男人团
+ - DOMAIN-SUFFIX,nrtimages.xyz,🚀 节点选择
+#JavDB
+ - DOMAIN-SUFFIX,javdb.com,🚀 节点选择
+#hanime1.me
+ - DOMAIN-SUFFIX,hanime1.me,🚀 节点选择
+#Proton邮箱
+ - DOMAIN-SUFFIX,1proton.me,🚀 节点选择
+#Others
+ - DOMAIN-SUFFIX,lncldglobal.com,🚀 节点选择
+ - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,safebrowsing.googleapis.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,lookup.api.bsb.baidu.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,tsyndicate.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,doppiocdn.com,🛑 全球拦截
